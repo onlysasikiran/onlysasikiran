@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onlysasikiran
 - 👀 I’m interested in ... ai and ml
-- 🌱 I’m currently learning ...c language
+- 🌱 I’m currently learning ...langchain and n8n workflow
 - 💞️ I’m looking to collaborate on ... anykind of projects
 - 📫 How to reach me ...sasikiranmatli123@gmail.com
 - 😄 Pronouns: ...
